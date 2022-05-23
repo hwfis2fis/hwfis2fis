@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hwfis2fis
-- 👀 I’m interested in python, react, vue
+- 👀 I’m interested in go, react, vue
 - 🌱 I’m currently learning ts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
